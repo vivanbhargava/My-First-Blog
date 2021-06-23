@@ -1,0 +1,80 @@
+body {
+    text-align: left;
+}
+
+h2 {
+    color: blue;
+}
+
+.travelcontent {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.travelcontent img {
+    width: 90%;
+}
+
+.travelcontent hr {
+    width: 50%;
+    color: black;
+}
+
+.travelcontent h4,
+.travelcontent p {
+    margin-left: 20px;
+}
+
+.moviescontent {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.moviescontent i {
+    float: right;
+}
+
+.movietext span {
+    color: sandybrown;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey;
+}
+
+.e {
+    margin-top: 10px;
+}
+
+.e h3 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+.book{
+    cursor: pointer;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.p_modal{
+    margin-top: 10px;
+}
+#books{
+    margin-top: 10px;
+}
